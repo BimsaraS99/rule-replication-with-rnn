@@ -1,7 +1,3 @@
-Sure! Here's a beginner-friendly article based on your RNN project:
-
----
-
 # 🧠 Modeling and Replicating Rule-Based Systems with Recurrent Neural Networks (RNN)
 
 This project is a beginner-friendly way to understand **how Recurrent Neural Networks (RNNs)** work, by teaching a neural network to replicate a simple rule-based system. No need to start with complex datasets—here, we generate our own using simple logic!
